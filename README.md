@@ -1,2 +1,1 @@
-# vueblog_vue
-vueblog_frontend
+# vueblog_frontend
