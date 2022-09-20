@@ -1,4 +1,4 @@
-# private_storage_blog_vue
+# private_storage_blog_vue(front end)
 
 ## Project setup
 ```
